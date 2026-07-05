@@ -1,9 +1,9 @@
-# ECO-PULSE (RahmaRadar) — Green Radar-Based Flash-Flood Early Warning
+# ECO-PULSE — Green Radar-Based Flash-Flood Early Warning
 
 AESH Sustainability Hackathon 2026 — Challenge 2: Green Radar Systems for Environmental Monitoring
 Onsite Final, Egypt, 6–7 July 2026
 
-> **Repository link:** `[INSERT FINAL GITHUB/GITLAB URL HERE]`
+> 
 
 ---
 
